@@ -18,17 +18,11 @@ padding: 6em
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-## About CollectionBuilder CSV
+## About Ben's Digital Archive
 
 This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
-
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
-
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+This is a site that I am creating to learn about constructing and navigating digital repositories. This is for SI 676, a class at the University of Michigan School of Information. 
 
 [CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
 See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
