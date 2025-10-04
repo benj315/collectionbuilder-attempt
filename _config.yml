@@ -8,11 +8,11 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: "https://benj315.github.io/collectionbuilder-attempt/"
+url: "https://benj315.github.io/si676-collectionbuilder/"
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: "/"
 # location of code, the full url to your github repository
-source-code: "https://github.com/benj315/collectionbuilder-attempt"
+source-code: "https://benj315.github.io/si676-collectionbuilder/"
 
 ##########
 # SITE SETTINGS
