@@ -24,6 +24,9 @@ This demo collection features items from the University of Idaho Library's [Digi
 
 This is a site that I am creating to learn about constructing and navigating digital repositories. This is for SI 676, a class at the University of Michigan School of Information. 
 
+
+## About CollectionBuilder
+
 [CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
 See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
 
