@@ -22,7 +22,7 @@ padding: 6em
 
 This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
 
-This is a site that I am creating to learn about constructing and navigating digital repositories. This is for SI 676, a class at the University of Michigan School of Information. 
+This is a site that I am creating to learn about constructing and navigating digital repositories. This is for SI 676, a class at the University of Michigan School of Information. I am still in the process of editing this About page. 
 
 
 ## About CollectionBuilder
